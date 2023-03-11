@@ -6,8 +6,8 @@ Bee is an AI, easy and high efficiency ORM framework,support JDBC,Cassandra,Mong
 **Honey** is Bee's implementation project, and it does not rely on any third-party framework.     
 **Bee-Ext** is an extension toolkit for **Bee,** including third-party dependency.     
 
-**Bee-all** can add Bee,Honey,BeeExt dependency one time,	
-maven config as bellow(${bee.version} is the really bee version):	
+**Bee-all** can add Bee,Honey,BeeExt dependency one time,  
+maven config as bellow(${bee.version} is the really bee version):  
 
 ```xml
 		<dependency>
