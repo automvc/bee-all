@@ -4,7 +4,7 @@
  * The license,see the LICENSE file.
  */
 
-package org.teasoft.bee.all;
+package org.teasoft.beeall;
 
 import org.teasoft.bee.osql.BeeVersion;
 
