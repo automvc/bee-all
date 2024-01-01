@@ -9,7 +9,7 @@ package org.teasoft.beeall;
 import org.teasoft.bee.osql.BeeVersion;
 
 /**
- * Bee-all include project Bee,Honey,Bee-Ext.
+ * Bee-all includes 3 projects: Bee,Honey,Bee-Ext.
  * Bee-all's version same as Bee.
  * @author Kingstar
  * @since  2.1
